@@ -14,19 +14,19 @@ The course focuses on econometric methods used with macroeconomic data. The lect
 Besides introducing students to such state-of-the-art techniques, an additional focus is to provide them with the necessary knowledge in statistical software (we will use `R`, [CRAN download](https://cran.r-project.org)) to conduct their own research projects. Students will be provided with theoretical inputs alongside empirical examples.
 
 | Week | Description | Notes
-| :---: | --- | --- |
-| `01` | Introduction |  |
-| `02` | Univariate time series analysis |  |
-| `03` | Bayesian econometrics: Introduction |  |
-| `04` | " |  |
-| `05` | Bayesian econometrics: Regression and algorithms |  |
-| `06` | " |  |
-| `07` | Multivariate time series analysis |  |
-| `08` | Structural inference |  |
-| `09` | " | Likely online |
-| `10` | Predictive inference |  |
-| `11` | State space models | Q&A for exam |
-| `12` | Exam | Joint with other lectures in macroeconometrics |
+| ---: | --- | --- |
+| 1 | Introduction |  |
+| 2 | Univariate time series analysis |  |
+| 3 | Bayesian econometrics: Introduction |  |
+| 4 | " |  |
+| 5 | Bayesian econometrics: Regression and algorithms |  |
+| 6 | " |  |
+| 7 | Multivariate time series analysis |  |
+| 8 | Structural inference |  |
+| 9 | " | Likely online |
+| 10 | Predictive inference |  |
+| 11 | State space models | Q&A for exam |
+| 12 | Exam | Joint with other lectures in macroeconometrics |
 
 ## Learning Outcomes
 The course is aimed at students interested in working in academic or research positions, with the potential of publishing in refereed scientific journals. Students should gain in-depth knowledge about time series analysis, achieve a good foundational understanding of Bayesian econometrics, and be able to apply their knowledge independently for their own research papers, or thesis.
