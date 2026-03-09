@@ -21,13 +21,13 @@ By the end of the course, students are expected to have acquired a good understa
 | ---: | :--- | :--- |
 | 1    | Introduction |  |
 | 2    | Univariate time series analysis |  |
-| 3    |  |  |
-| 4    |  |  |
-| 5    |  |  |
-| 6    |  |  |
-| 7    |  |  |
-| 8    |  |  |
-| 9    |  | online |
+| 3    |  | _same as above_ |
+| 4    | Introduction to Bayesian econometrics |  |
+| 5    |  | _same as above_ |
+| 6    | **Midterm** |  |
+| 7    | Multivariate time series analysis: Structural inference |  |
+| 8    |  | _same as above_ |
+| 9    | Review and predictive inference | online |
 | 10   | Presentations: Part 1 |  |
 | 11   | Presentations: Part 2 | including Q&A for exam |
 | 12   | **Exam** | on Friday, joint with other lectures in macroeconometrics |
@@ -67,3 +67,6 @@ Knowledge of the following topics will be highly beneficial:
 Slides for review will be provided but not discussed in class. These materials are based on:
 - Davidson, R. & MacKinnon J.G.: "[Econometric Theory and Methods](http://qed.econ.queensu.ca/ETM/)" chapters 1-3, 10
 - Casella, G. & Berger, R.L.: "[Statistical Inference](https://www.routledge.com/Statistical-Inference/Casella-Berger/p/book/9781032593036)" chapters 1-6
+
+## Papers for Presentation by Students
+TBA.
