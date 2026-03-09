@@ -39,10 +39,10 @@ The methods discussed in the course, such as univariate and multivariate time se
 
 ## Attendance Requirements and Assessment
 Attendance is mandatory for this course, two absences will be tolerated. The course grade will be based on the following components:
-**Midterm** (20 points)
-**Final exam** (40 points)
-**Assignments** (20 points total, 10 points each), in groups (max. 4 students)
-**Presentation** (20 points), in groups (max. 4 students)
+- **Midterm** (20 points)
+- **Final exam** (40 points)
+- **Assignments** (20 points total, 10 points each), in groups (max. 4 students)
+- **Presentation** (20 points), in groups (max. 4 students)
 
 To pass the course, a positive midterm <ins>and</ins> final exam score (50% or higher of total points) is required. The relevant material for the exams is defined by what has been taught in the course. The grading scheme is:
 - **Excellent** (1): [89, 100] points
