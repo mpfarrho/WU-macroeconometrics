@@ -18,12 +18,12 @@ Besides introducing students to such state-of-the-art techniques, an additional 
 | 1    | Introduction |  |
 | 2    | Univariate time series analysis |  |
 | 3    | Bayesian econometrics: Introduction |  |
-| 4    | _same_ |  |
+| 4    |  | _same as above_ |
 | 5    | Bayesian econometrics: Regression and algorithms |  |
-| 6    | _same_ |  |
+| 6    |  | _same as above_ |
 | 7    | Multivariate time series analysis |  |
 | 8    | Structural inference |  |
-| 9    | _same_ | Likely online |
+| 9    |  | Likely online | _same as above_ |
 | 10   | Predictive inference |  |
 | 11   | State space models | Q&A for exam |
 | 12   | Exam | Joint with other lectures in macroeconometrics |
