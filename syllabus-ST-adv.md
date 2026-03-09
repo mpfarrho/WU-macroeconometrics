@@ -4,10 +4,6 @@ Michael Pfarrhofer, *Vienna University of Economics and Business*. This syllabus
 
 The macroeconomy is usually modeled in an impulse-propagation framework: *shocks* occur, *propagate* through the economy, and *affect observed variables*. The goal is to measure shocks, their dynamic (causal) effects, assess their relative importance, construct credible counterfactual scenarios, and predict future economic dynamics. The course materials provide a comprehensive toolkit for doing so econometrically and empirically.
 
-
-
-
-
 ## Contents
 The course focuses on econometric methods used with macroeconomic data. The lecture consists of the following main building blocks:
 - Univariate and (high-dimensional) multivariate time series analysis
