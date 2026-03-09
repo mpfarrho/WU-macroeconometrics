@@ -21,9 +21,9 @@ Besides introducing students to such state-of-the-art techniques, an additional 
 | 4    |  | _same as above_ |
 | 5    | Bayesian econometrics: Regression and algorithms |  |
 | 6    |  | _same as above_ |
-| 7    |  | _same as above_ |
-| 8    | Multivariate time series analysis | **Quiz 2** |
-| 9    | Structural inference | _same as above_ (online) |
+| 7    | Multivariate time series analysis | **Quiz 2** |
+| 8    | Structural inference |  |
+| 9    |  | _same as above_ (online) |
 | 10   | Predictive inference |  |
 | 11   | State space models | Q&A for exam |
 | 12   | **Exam** | on Friday, joint with other lectures in macroeconometrics |
