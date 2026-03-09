@@ -14,7 +14,7 @@ The course focuses on econometric methods used with macroeconomic data. The lect
 Besides introducing students to such state-of-the-art techniques, an additional focus is to provide them with the necessary knowledge in statistical software (we will use `R`, [CRAN download](https://cran.r-project.org)) to conduct their own research projects. Students will be provided with theoretical inputs alongside empirical examples.
 
 | Week | Description | Notes
-| ---: | --- | --- |
+| ---: | :--- | :--- |
 | 1    | Introduction |  |
 | 2    | Univariate time series analysis |  |
 | 3    | Bayesian econometrics: Introduction |  |
