@@ -18,7 +18,7 @@ Besides introducing students to such state-of-the-art techniques, an additional 
 | 1    | Introduction |  |
 | 2    | Univariate time series analysis |  |
 | 3    | Bayesian econometrics: Introduction | **Quiz 1** |
-| 4    |  | Review of weeks 1 and 2 |
+| 4    |  | _same as above_ |
 | 5    | Bayesian econometrics: Regression and algorithms |  |
 | 6    |  | _same as above_ |
 | 7    |  | _same as above_ |
