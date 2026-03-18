@@ -69,4 +69,9 @@ Slides for review will be provided but not discussed in class. These materials a
 - Casella, G. & Berger, R.L.: "[Statistical Inference](https://www.routledge.com/Statistical-Inference/Casella-Berger/p/book/9781032593036)" chapters 1-6
 
 ## Papers for Presentation by Students
-TBA.
+Students are expected to scrutinize the respective paper in depth (objectives, relevant assumptions, model framework, and results) and provide (1) a detailed discussion, as well as (2) potential comments/questions/suggestions. There will be sufficient time for thorough discussions in class. You may send a draft of your presentation to me in advance for comments, but this is not a must.
+- Caldara, D., & Iacoviello, M. (2022): "[Measuring geopolitical risk](https://www.aeaweb.org/articles?id=10.1257/aer.20191823)," American Economic Review, 112(4), 1194-1225.
+- Antolin-Diaz, J., & Surico, P. (2025): "[The long-run effects of government spending](https://www.aeaweb.org/articles?id=10.1257/aer.20231278)," American Economic Review, 115(7), 2376-2413.
+- Jarocinski, M., & Karadi, P. (2020): "[Deconstructing monetary policy surprises-the role of information shocks](https://www.aeaweb.org/articles?id=10.1257/mac.20180090)," American Economic Journal: Macroeconomics, 12(2), 1-43.
+- Furlanetto, F., Ravazzolo, F., & Sarferaz, S. (2019): "[Identification of financial factors in economic fluctuations](https://doi.org/10.1111/ecoj.12520)," The Economic Journal, 129(617), 311-337.
+- TBA
